@@ -12,7 +12,7 @@
 - 이 부분을 모델을 통해 부담을 줄이고자함
 
 ### Models  
-- ML Model : AdaBoostClassifier, XGBClassifier, RandomForestClassifier...+@ (후에 추가)
+- ML Model : AdaBoost, XGB, RandomForest...+@ (후에 추가)
 
 ### Data
 - [중앙노동위원회 사이트](http://www.nlrc.go.kr/nlrc/md/search_case.go)에서 '해고'라는 키워드와 서울노동위원회 검색으로 나오는 판결요지 사례를 크롤링한 텍스트 데이터

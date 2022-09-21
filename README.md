@@ -12,7 +12,7 @@
 - 이 부분을 모델을 통해 부담을 줄이고자함
 
 ### Models  
-- ML Model : AdaBoost, XGB, RandomForest...+@ (후에 추가)
+- LogisticRegression, RandomForest, LinearSVC, MultinomialNB
 
 ### Data
 - [중앙노동위원회 사이트](http://www.nlrc.go.kr/nlrc/md/search_case.go)에서 '해고'라는 키워드와 서울노동위원회 검색으로 나오는 판결요지 사례를 크롤링한 텍스트 데이터
@@ -32,10 +32,10 @@
 ### Retrospective
 - 이번 프로젝트는 노사분쟁을 주제로 다루었지만 다른 법률분쟁의 판결여부까지도 확장 가능성 존재.
 - 발전시킨다면 과도한 업무가 집중된 판사와 법률관련 노동자들에게 보조적인 역할을 함으로써 부담을 줄일수 있을거라 생각.
-- 
+
 
 ### References
 - http://www.nlrc.go.kr/nlrc/md/search_case.go
 - https://scikit-learn.org/stable/modules/classes.html
-- 
+
 
